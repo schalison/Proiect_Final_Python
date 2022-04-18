@@ -262,6 +262,31 @@ Departament inexistent.
 Introduceti departamentul: 
 ...
 ```
-     
 
+- Continutul fisierului dupa update:
+```
+HR;Maria Popescu;Site Manager;2020-07-12;7600.0
+HR;Anca Dimitrie;Contabil;2019-08-22;5400.0
+HR;Marian Cantemir;Talent reqruiter;2021-05-12;4200.0
+IT;Adrian Popa;IT Helpdesk;2018-09-11;5400.0
+IT;Adriana Milescu;Software Developer;2021-07-08;5700.0
+IT;Maria Popovici;Software Developer;2021-06-22;5780.0
+IT;Marius Petrila;DevOps Engineer;2018-07-12;6200.0
+IT;Alexandru Milea;Junior DevOps;2021-10-11;4200.0
+HR;Mihai Tomescu;Project Manager;2022-03-03;6800.0
+HR;Ana-Maria Punga;Manager Assistant;2022-04-12;4800.0
+Customer Relations;Ana Iordache;Customer Support Representative;2022-04-10;3200.0
+Customer Relations;Adrian Tomescu;Customer Support Representative;2022-04-09;3280.0
+Customer Relations;Mihnea Giuca;Customer Support Representative;2022-04-06;3370.0
+Customer Relations;Adrian Damian;Senior Customer Support Representative;2022-04-10;3200.0
+Customer Relations;Ana-Maria Popescu;Customer Support Representative;2022-04-10;3200.0
+Customer Relations;Bogdan Iordache;Customer Support Representative;2022-04-10;3200.0
+IT;Adrian Nemescu;Network Administrator;2022-02-22;6200.0
+Customer Relations;Adrian Toma;Customer Support Representative;2022-04-11;3200.0
+Customer Relations;Carina Tibu;Customer Support Representative;2022-04-12;3280.0
+Customer Relations;Mihai Corici;Customer Support Representative;2022-04-10;1600.0
+Customer Relations;Mircea Popa;Customer Support Representative;2022-04-08;2980.0
+Customer Relations;Maria Badescu;Customer Support Representative;2022-04-10;3380.0
+HR;Maria Oprescu;Contabil;2022-04-17;4980.0
+```
 - Puteti modifica fisierul cu ce doriti cu scopul de a testa functionalitatea acestuia.
