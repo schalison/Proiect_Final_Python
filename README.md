@@ -26,7 +26,7 @@ Aplicatia va avea urmatoarea ierarhie de meniuri:
 ```
 
 ## Cerinte:
-- Implementarea functionalitatii fiecarei optiuni din meniu folosind scheletul de cod actual inventivitatea voastra.
+- Implementarea functionalitatii fiecarei optiuni din meniu folosind scheletul de cod actual si inventivitatea voastra.
 - Documentatie sub forma unui fisier txt/pdf/GitHub in care se va explica functionalitatea fiecarei optiuni
 - Scheletul de cod poate fi modificat la libera alegere: se pot adauga/ sterge functii in functie de cum considerati ca este necesar pentru a respecta cerintele aplicatiei.
 
